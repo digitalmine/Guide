@@ -51,7 +51,7 @@ source ~/.bash_aliases
 ```
 Your poliscore (`polisd`) should be up and running by now.
 7.Use `polis-cli getinfo` to check and wait til it's synced 
-  (look for blocks number and compare with block explorer http://polispay.org:3001/ )
+  (look for blocks number and compare with block explorer http://explorer.polispay.org/insight/ )
 
 
 ## Cold Wallet Setup Part 2 
