@@ -10,7 +10,7 @@
 2. Now stop your MN `sudo monit stop polisd`
 3. Download new version
    `wget https://github.com/polispay/polis/releases/download/v1.2.1/poliscore-1.2.1-linux64.tar.gz`
-4. Unpack it `tar xvf ~/poliscore-1.2.0-linux.zip`
+4. Unpack it `tar xvf ~/poliscore-1.2.1-linux.tar.gz`
 5. Copy new polisd and polis-cli to /usr/bin
    `sudo cp ~/poliscore-1.2.1-linux64/bin/polis{d,-cli} /usr/bin`
 6. Run your MN `sudo monit start polisd`
